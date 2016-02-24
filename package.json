@@ -1,0 +1,22 @@
+{
+  "name": "nico",
+  "version": "1.0.0",
+  "description": "Tutorial para aprender a ser hapi en gurpo (me aburro...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naicoblanco/imhapi.git"
+  },
+  "author": "Nico",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/naicoblanco/imhapi/issues"
+  },
+  "homepage": "https://github.com/naicoblanco/imhapi#readme",
+  "devDependencies": {
+    "lab": "^9.1.0"
+  }
+}
